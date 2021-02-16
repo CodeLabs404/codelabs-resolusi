@@ -7,3 +7,5 @@ RENCANA BESAR DARI CODELABS
 - Membuat homebase programmer
   => membuat markas untuk perkumpulan programmer dengan kegiatan yang positif dan mendidik
 - Membuat aplikasi Ronda Malam
+  => tempat ronda
+  => jangkauan ronda
