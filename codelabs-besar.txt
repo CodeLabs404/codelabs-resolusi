@@ -8,3 +8,4 @@ RENCANA BESAR DARI CODELABS
   => membuat markas untuk perkumpulan programmer dengan kegiatan yang positif dan mendidik
 - Membuat aplikasi Ronda Malam
   => jadwal ronda
+  => nama petugas
