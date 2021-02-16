@@ -1,0 +1,5 @@
+RENCANA BESAR DARI CODELABS
+
+- Membuat aplikasi smart RW
+- Membuat konten pemrograman
+- Membuat homebase programmer
