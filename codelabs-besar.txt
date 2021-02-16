@@ -6,3 +6,4 @@ RENCANA BESAR DARI CODELABS
   => membuat konten youtube mengenai pembelajaran dalam dunia IT pemrograman khususnya dengan tujuan agar lebih banyak lagi SDM yang ahli di bidang teknologi
 - Membuat homebase programmer
   => membuat markas untuk perkumpulan programmer dengan kegiatan yang positif dan mendidik
+- Membuat aplikasi Ronda Malam
